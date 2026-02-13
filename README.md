@@ -1,4 +1,5 @@
 # Real Estate Market Analysis 🏠📊
+![Uploading image.png…]()
 
 ## 🔍 Project Overview
 This project is an **end-to-end Business Intelligence (BI) solution** designed to analyze real estate market trends and regional growth. By integrating and cleaning diverse housing datasets, the project provides actionable insights to support data-driven investment decisions.
