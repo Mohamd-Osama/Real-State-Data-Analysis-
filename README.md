@@ -1,5 +1,10 @@
 # Real Estate Market Analysis 🏠📊
-![Uploading image.png…]()
+
+<img width="1492" height="817" alt="Screenshot 2026-02-13 154844" src="https://github.com/user-attachments/assets/1c9b7a4b-72dc-4fc4-bf2d-38ace803bc9e" />
+<img width="1412" height="804" alt="image" src="https://github.com/user-attachments/assets/1e4d8b82-71f4-4d4e-96b0-a5317cc1913c" />
+<img width="1448" height="811" alt="image" src="https://github.com/user-attachments/assets/c392de3e-2192-437e-90b2-78a3203489a7" />
+
+
 
 ## 🔍 Project Overview
 This project is an **end-to-end Business Intelligence (BI) solution** designed to analyze real estate market trends and regional growth. By integrating and cleaning diverse housing datasets, the project provides actionable insights to support data-driven investment decisions.
