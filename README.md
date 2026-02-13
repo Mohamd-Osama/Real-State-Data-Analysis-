@@ -1,8 +1,10 @@
 # Real Estate Market Analysis 🏠📊
+<img width="1488" height="809" alt="image" src="https://github.com/user-attachments/assets/98d2d19b-b723-45cd-865f-bbffbcfb35ad" />
+<img width="1432" height="817" alt="image" src="https://github.com/user-attachments/assets/69460bba-017a-4959-8021-5b744daa72d5" />
+<img width="1435" height="812" alt="image" src="https://github.com/user-attachments/assets/5af7cf56-1c82-448a-af05-df4d29d6e78e" />
+<img width="1473" height="802" alt="image" src="https://github.com/user-attachments/assets/3b2e33bd-ac88-4e99-9dbe-3d078df5c0bc" />
+<img width="1450" height="808" alt="image" src="https://github.com/user-attachments/assets/76dc3e18-b15e-448c-96ae-3c00c5b347fa" />
 
-<img width="1492" height="817" alt="Screenshot 2026-02-13 154844" src="https://github.com/user-attachments/assets/1c9b7a4b-72dc-4fc4-bf2d-38ace803bc9e" />
-<img width="1412" height="804" alt="image" src="https://github.com/user-attachments/assets/1e4d8b82-71f4-4d4e-96b0-a5317cc1913c" />
-<img width="1448" height="811" alt="image" src="https://github.com/user-attachments/assets/c392de3e-2192-437e-90b2-78a3203489a7" />
 
 
 
